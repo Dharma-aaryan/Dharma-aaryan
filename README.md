@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryan Dharmadhikari</h1>
-<h3 align="center">Computer Engineering student with strong communication skills, leadership and problem solving. Looking forward to work on all kinds of projects.</h3>
+<h3 align="center">Computer Engineer and masters student with strong communication skills, leadership and problem solving. Looking forward to work on all kinds of projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharma-aaryan&label=Profile%20views&color=0e75b6&style=flat" alt="dharma-aaryan" /> </p>
 
