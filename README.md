@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryan Dharmadhikari</h1>
-<h3 align="center">Computer Engineer | Master's Student | Builder of Ideas into Scalable Solutiond </h3>
+<h3 align="center">Computer Engineer | Master's Student | Building ideas into scalable solutions </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dharma-aaryan&label=Profile%20views&color=0e75b6&style=flat" alt="dharma-aaryan" />
