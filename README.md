@@ -7,12 +7,12 @@
 
 ---
 
-🔭 I’m currently working on a **Low-Code Form Builder for Pet Lovers**  
+🔭 I’m currently working on a **Data driven solutions for businesses that can drive significant business impact**  
 🌱 Learning more about **IoT, Cloud Computing, and Applied Data Science**  
 👯 I’m open to collaborating on **impactful projects across all domains**  
 🤝 Looking for mentorship and collaboration on **Deep Learning projects**  
-💬 Ask me about **Web Development, Android, or ML pipelines**  
-📫 How to reach me: dharma.aaryan@gmail.com  
+💬 Ask me about ** Data, Analyytics, Data Engineering, Product, Web Development, Android, or ML pipelines**  
+📫 How to reach me?  [LinkedIn](https://www.linkedin.com/in/aaryan-dharmadhikari-1116271a0/)
 
 ---
 
