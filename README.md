@@ -7,7 +7,7 @@
 
 ---
 
-🔭 I’m currently working on a **Data driven solutions for businesses that can drive significant business impact**  
+🔭 I’m currently working on **AI assisted Data driven solutions for businesses that can drive significant business impact**  
 🌱 Learning more about **IoT, Cloud Computing, and Applied Data Science**  
 👯 I’m open to collaborating on **impactful projects across all domains**  
 🤝 Looking for mentorship and collaboration on **Deep Learning projects**  
